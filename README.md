@@ -11,7 +11,9 @@ A collection of open-source papers in [MedIA](https://www.journals.elsevier.com/
 
 |DATE|First Author|Title|Paper&Code|
 |---|---|------------|---|
-|20200203|Qi Dou|Unpaired Multi-modal Segmentation via Knowledge Distillation [(IEEE)](https://ieeexplore.ieee.org/document/8979396)|[arXiv](https://arxiv.org/abs/2001.03111) [tensorflow](https://github.com/carrenD/ummkd)|
+|20200203|[Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/)|Unpaired Multi-modal Segmentation via Knowledge Distillation [(IEEE)](https://ieeexplore.ieee.org/document/8979396)|[arXiv](https://arxiv.org/abs/2001.03111) [(tensorflow)](https://github.com/carrenD/ummkd)|
+|20200209|Quande Liu|MS-Net: Multi-Site Network for Improving Prostate Segmentation with Heterogeneous MRI Data [(IEEE)](https://ieeexplore.ieee.org/document/9000851)|[(arxiv)](https://arxiv.org/abs/2002.03366) [(tensorflow)](https://github.com/liuquande/MS-Net)|
+
 
 ## [Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10) (IF=4.419)
 
