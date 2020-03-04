@@ -32,7 +32,7 @@ A collection of open-source papers in [MedIA](https://www.journals.elsevier.com/
 |DATE|First Author|Title|Paper&Code|
 |---|---|------------|---|
 |202003|Wu Qiu|Machine Learning for Detecting Early Infarction in Acute Stroke with Non–Contrast-enhanced CT|[RSNA](https://pubs.rsna.org/doi/10.1148/radiol.2020191193) [sklearn](https://github.com/WuChanada/Acute-ischemic-lesion-segmentation-in-NCCT)|
-|202003||Radiomic Features at Contrast-enhanced CT Predict Recurrence in Early Stage Hepatocellular Carcinoma: A Multi-Institutional Study|[RSNA](https://pubs.rsna.org/doi/10.1148/radiol.2020191470) [R](https://github.com/radgrady/radiology_Rcode)|
+|202003|Gu-Wei Ji|Radiomic Features at Contrast-enhanced CT Predict Recurrence in Early Stage Hepatocellular Carcinoma: A Multi-Institutional Study|[RSNA](https://pubs.rsna.org/doi/10.1148/radiol.2020191470) [R](https://github.com/radgrady/radiology_Rcode)|
 |202002|Ponnada A. Narayana|Deep Learning for Predicting Enhancing Lesions in Multiple Sclerosis from Noncontrast MRI| [RSNA](https://pubs.rsna.org/doi/10.1148/radiol.2019191061) [Keras](https://github.com/uthmri)|
 
 
