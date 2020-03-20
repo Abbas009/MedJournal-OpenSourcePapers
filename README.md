@@ -29,6 +29,7 @@ A collection of open-source papers in [MedIA](https://www.journals.elsevier.com/
 
 |DATE|First Author|Title|Paper|Code|
 |---|---|------------|---|---|
+|202003|Lin Li, Lixin Qin|Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT|[RSNA](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)|[PyTorch](https://github.com/bkong999/COVNet)|
 |202003|Wu Qiu|Machine Learning for Detecting Early Infarction in Acute Stroke with Non–Contrast-enhanced CT|[RSNA](https://pubs.rsna.org/doi/10.1148/radiol.2020191193) | [sklearn](https://github.com/WuChanada/Acute-ischemic-lesion-segmentation-in-NCCT)|
 |202003|Gu-Wei Ji|Radiomic Features at Contrast-enhanced CT Predict Recurrence in Early Stage Hepatocellular Carcinoma: A Multi-Institutional Study|[RSNA](https://pubs.rsna.org/doi/10.1148/radiol.2020191470) | [R](https://github.com/radgrady/radiology_Rcode)|
 |202002|Sanne G. M. van Velzen|Deep Learning for Automatic Calcium Scoring in CT: Validation Using Multiple Cardiac CT and Chest CT Protocols|[RSNA](https://pubs.rsna.org/doi/10.1148/radiol.2020191621)|[Docker](https://github.com/sgmvanvelzen/calcium-scoring)|
