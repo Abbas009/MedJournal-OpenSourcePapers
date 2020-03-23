@@ -1,5 +1,5 @@
 # MedJournal-OpenSourcePapers
-A collection of open-source papers in [MedIA](https://www.journals.elsevier.com/medical-image-analysis), [TMI](https://ieee-tmi.org/), [TBME](https://tbme.embs.org/), [MedPhy](https://www.medphys.org/) and [Radiology](https://pubs.rsna.org/journal/radiology) since **2020**.
+A collection of open-source papers in [MedIA](https://www.journals.elsevier.com/medical-image-analysis), [TMI](https://ieee-tmi.org/), [TBME](https://tbme.embs.org/), and [Radiology](https://pubs.rsna.org/journal/radiology) since **2020**.
 
 
 ## [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) (IF=8.880)
